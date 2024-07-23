@@ -71,7 +71,7 @@ TEMPLATES = [
 
 WSGI_APPLICATION = 'gratekart.wsgi.application'
 
-Auth_USER_MODEL = 'accounts.Account'
+AUTH_USER_MODEL = 'accounts.Account'
 
 
 
